@@ -1,1 +1,1 @@
-az group create -l eastus -n test123478
+az group create -l eastus -n test1234782025
